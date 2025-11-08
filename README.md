@@ -9,7 +9,7 @@ class Anton(torch.nn.Module):
 
 If you’ve ended up here, I hope you find something interesting - or at least amusing.
 
-I (try) build tools using modern AI & Machine Learning techniques that hopefully helps people. I like designing models, building fast inference stacks, and packaging everything into products that feel effortless to use. On this GitHub you’ll find everything from outdated experiments and half-baked ideas to the occasional project that actually turned out pretty decent.
+I (try) build tools using modern AI & Machine Learning techniques that hopefully helps people. I like designing models, building fast inference stacks, and packaging everything into products that feel effortless to use. On this GitHub you’ll find everything from outdated code and half-baked ideas to the occasional project that actually turned out pretty decent.
 
 #
 
